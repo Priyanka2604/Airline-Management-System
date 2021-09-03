@@ -14,6 +14,11 @@
 ![MainFrame1](https://user-images.githubusercontent.com/59468515/131947195-ca2ad67b-60cc-482e-b8eb-6258552d63ae.png)
 
 
+## Flight Information
+
+![FlightInfo](https://user-images.githubusercontent.com/59468515/131947726-fcaa8054-0114-42cb-9f6c-678f660e53af.png)
+
+
 ## Register User
 
 ### Step-1
@@ -35,6 +40,11 @@
 
 ### Step-3
 ![TicketBooking2(Booked)](https://user-images.githubusercontent.com/59468515/131947535-48bce2a1-bce5-4c6e-bc52-857b5033e80c.png)
+
+
+## Booked Ticket/Payment Details
+
+![BookedTickets(Payment details)](https://user-images.githubusercontent.com/59468515/131947850-ee07000e-68aa-49d5-8c49-60aa7e00a052.png)
 
 
 
